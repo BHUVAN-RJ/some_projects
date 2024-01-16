@@ -1,0 +1,15 @@
+names:
+- '1'
+- '2'
+- '3'
+- ball
+nc: 4
+roboflow:
+  license: CC BY 4.0
+  project: cricket-xo7gy
+  url: https://universe.roboflow.com/class-ja3uw/cricket-xo7gy/dataset/2
+  version: 2
+  workspace: class-ja3uw
+test: /content/cricket-2/test
+train: /content/cricket-2/train
+val: /content/cricket-2/valid
